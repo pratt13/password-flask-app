@@ -5,7 +5,7 @@ A flask app that contains details on what a strong password might contain and so
 ## Requirements
 ### Running the App
 #### Replit
-An example of this software is hosted publicly on Replit [here]().
+An example of this software is hosted publicly on Replit [here](https://replit.com/@ppratt1/password-flask-app).
 
 #### Locally
 The version of software this program is tested on is Python 3.8.10.
@@ -14,7 +14,7 @@ Other versions may or may not work.
 #### Exercises
 Some of the exercises can be done via the UI.
 Some however, must be done either via a cURL command or some other programmatic way of posting to an application endpoint.
-To facilitate this there are other [replit]()/[github repository]() that do this.
+To facilitate this there are other [replit](https://replit.com/@ppratt1/password-flask-app)/[github repository](https://github.com/pratt13/password-exercise-helper) that do this.
 
 ## Setup 
 ### Replit
